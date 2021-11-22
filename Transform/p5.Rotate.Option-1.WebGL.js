@@ -5,6 +5,6 @@ function setup(){
 
 function draw(){
   background(200);
-  rotateX(frameCount * 0.01);  // <--
+  rotateX(frameCount * 0.01);  // <---
   box(200, 200, 200);
 }
